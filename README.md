@@ -1,5 +1,6 @@
 # Line-following-bot
 Robot-Control and Image-Processing based project, autonomous bot follows the randomly assigned path in OpenAI gym arena. The project is made to testify the control and handling of bot in simulation.
+
 ![Line_follower_sol](https://user-images.githubusercontent.com/123478223/215144723-06529d0c-dab5-44a2-abd5-706e1aafb8a5.gif)
 
 # Objective
